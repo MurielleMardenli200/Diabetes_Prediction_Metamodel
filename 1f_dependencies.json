@@ -1,0 +1,254 @@
+[
+    {
+        "f1": "HighBP-0",
+        "importance": 0.5998794062243538,
+        "pos_presence": 0.24970898444389572,
+        "neg_presence": 0.6240843094017584
+    },
+    {
+        "f1": "HighBP-1",
+        "importance": 0.4989734878810741,
+        "pos_presence": 0.7502910155561042,
+        "neg_presence": 0.37591569059824165
+    },
+    {
+        "f1": "HighChol-0",
+        "importance": 0.4569261871693011,
+        "pos_presence": 0.33433278069773187,
+        "neg_presence": 0.6156304590624015
+    },
+    {
+        "f1": "HighChol-1",
+        "importance": 0.42258003730380056,
+        "pos_presence": 0.6656672193022681,
+        "neg_presence": 0.38436954093759845
+    },
+    {
+        "f1": "CholCheck-0",
+        "importance": 0.838653073263178,
+        "pos_presence": 0.006808000282196903,
+        "neg_presence": 0.042194793665339785
+    },
+    {
+        "f1": "CholCheck-1",
+        "importance": 0.03562935806288947,
+        "pos_presence": 0.9931919997178031,
+        "neg_presence": 0.9578052063346603
+    },
+    {
+        "f1": "Smoker-0",
+        "importance": 0.15637006380863372,
+        "pos_presence": 0.48051077639422907,
+        "neg_presence": 0.569575302843724
+    },
+    {
+        "f1": "Smoker-1",
+        "importance": 0.1714463407562118,
+        "pos_presence": 0.5194892236057709,
+        "neg_presence": 0.43042469715627596
+    },
+    {
+        "f1": "Stroke-0",
+        "importance": 0.06310151198679348,
+        "pos_presence": 0.9068750220466331,
+        "neg_presence": 0.9679544087745926
+    },
+    {
+        "f1": "Stroke-1",
+        "importance": 0.6558861872541388,
+        "pos_presence": 0.09312497795336697,
+        "neg_presence": 0.03204559122540737
+    },
+    {
+        "f1": "HeartDiseaseorAttack-0",
+        "importance": 0.16273140561301624,
+        "pos_presence": 0.7760062083318635,
+        "neg_presence": 0.9268306652538733
+    },
+    {
+        "f1": "HeartDiseaseorAttack-1",
+        "importance": 0.6733421305955989,
+        "pos_presence": 0.22399379166813643,
+        "neg_presence": 0.07316933474612675
+    },
+    {
+        "f1": "PhysActivity-0",
+        "importance": 0.39651840972032737,
+        "pos_presence": 0.36869025362446645,
+        "neg_presence": 0.22249778057790887
+    },
+    {
+        "f1": "PhysActivity-1",
+        "importance": 0.18802836750127971,
+        "pos_presence": 0.6313097463755335,
+        "neg_presence": 0.7775022194220911
+    },
+    {
+        "f1": "Fruits-0",
+        "importance": 0.13323573762200802,
+        "pos_presence": 0.4129246181523158,
+        "neg_presence": 0.357908302070506
+    },
+    {
+        "f1": "Fruits-1",
+        "importance": 0.08568295814946181,
+        "pos_presence": 0.5870753818476843,
+        "neg_presence": 0.6420916979294939
+    },
+    {
+        "f1": "Veggies-0",
+        "importance": 0.2634282411759554,
+        "pos_presence": 0.24339482874175455,
+        "neg_presence": 0.17927775709499127
+    },
+    {
+        "f1": "Veggies-1",
+        "importance": 0.07812274152558119,
+        "pos_presence": 0.7566051712582454,
+        "neg_presence": 0.8207222429050087
+    },
+    {
+        "f1": "HvyAlcoholConsump-0",
+        "importance": 0.03801274047892644,
+        "pos_presence": 0.9757310663515468,
+        "neg_presence": 0.9386408545490993
+    },
+    {
+        "f1": "HvyAlcoholConsump-1",
+        "importance": 0.6044773200455813,
+        "pos_presence": 0.024268933648453207,
+        "neg_presence": 0.061359145450900654
+    },
+    {
+        "f1": "AnyHealthcare-0",
+        "importance": 0.1957377834949232,
+        "pos_presence": 0.040495255564570176,
+        "neg_presence": 0.050350811878919786
+    },
+    {
+        "f1": "AnyHealthcare-1",
+        "importance": 0.010271503472500831,
+        "pos_presence": 0.9595047444354298,
+        "neg_presence": 0.9496491881210802
+    },
+    {
+        "f1": "NoDocbcCost-0",
+        "importance": 0.02847706825461993,
+        "pos_presence": 0.8933648453208226,
+        "neg_presence": 0.9195509607949827
+    },
+    {
+        "f1": "NoDocbcCost-1",
+        "importance": 0.24556737928447359,
+        "pos_presence": 0.10663515467917739,
+        "neg_presence": 0.08044903920501732
+    },
+    {
+        "f1": "DiffWalk-0",
+        "importance": 0.275081250604433,
+        "pos_presence": 0.6270062436064764,
+        "neg_presence": 0.8649331309602222
+    },
+    {
+        "f1": "DiffWalk-1",
+        "importance": 0.6378843701145583,
+        "pos_presence": 0.37299375639352356,
+        "neg_presence": 0.13506686903977777
+    },
+    {
+        "f1": "Sex-0",
+        "importance": 0.08073113903874696,
+        "pos_presence": 0.5202652650887156,
+        "neg_presence": 0.5659554970073599
+    },
+    {
+        "f1": "Sex-1",
+        "importance": 0.09524061651923854,
+        "pos_presence": 0.4797347349112843,
+        "neg_presence": 0.43404450299264014
+    },
+    {
+        "f1": "Healthy_Diet-0",
+        "importance": 0.15990309271956682,
+        "pos_presence": 0.506719813750044,
+        "neg_presence": 0.4256937483891291
+    },
+    {
+        "f1": "Healthy_Diet-1",
+        "importance": 0.14108511814671199,
+        "pos_presence": 0.4932801862499559,
+        "neg_presence": 0.5743062516108709
+    },
+    {
+        "f1": "Mental_Health_Risk-0",
+        "importance": 0.18534056794063736,
+        "pos_presence": 0.6777311369007725,
+        "neg_presence": 0.8319195853260403
+    },
+    {
+        "f1": "Mental_Health_Risk-1",
+        "importance": 0.47844662044745134,
+        "pos_presence": 0.3222688630992275,
+        "neg_presence": 0.16808041467395973
+    },
+    {
+        "f1": "BMI_Category-Normal weight",
+        "importance": 0.6221699896377575,
+        "pos_presence": 0.11273766270415182,
+        "neg_presence": 0.29838196970130876
+    },
+    {
+        "f1": "BMI_Category-Obese",
+        "importance": 0.46962080567146847,
+        "pos_presence": 0.5793855162439592,
+        "neg_presence": 0.3072940233110914
+    },
+    {
+        "f1": "BMI_Category-Overweight",
+        "importance": 0.2036191754918284,
+        "pos_presence": 0.3031852975413595,
+        "neg_presence": 0.3807039147741917
+    },
+    {
+        "f1": "BMI_Category-Underweight",
+        "importance": 0.6555439245917186,
+        "pos_presence": 0.0046915235105294715,
+        "neg_presence": 0.013620092213408173
+    },
+    {
+        "f1": "Education_Level-High School Graduate",
+        "importance": 0.28730688870098775,
+        "pos_presence": 0.37828494832269216,
+        "neg_presence": 0.2696010767776855
+    },
+    {
+        "f1": "Education_Level-No High School",
+        "importance": 0.602729100544945,
+        "pos_presence": 0.03474549366820699,
+        "neg_presence": 0.01380337352157851
+    },
+    {
+        "f1": "Education_Level-Some College",
+        "importance": 0.18089142717362594,
+        "pos_presence": 0.5869695580091009,
+        "neg_presence": 0.716595549700736
+    },
+    {
+        "f1": "Income_Group-High Income",
+        "importance": 0.36074723597724156,
+        "pos_presence": 0.3545098592542947,
+        "neg_presence": 0.5545691457372777
+    },
+    {
+        "f1": "Income_Group-Low Income",
+        "importance": 0.4914766807283808,
+        "pos_presence": 0.2570461039190095,
+        "neg_presence": 0.13071393797073227
+    },
+    {
+        "f1": "Income_Group-Middle Income",
+        "importance": 0.18980113876120353,
+        "pos_presence": 0.3884440368266958,
+        "neg_presence": 0.31471691629199006
+    }
+]
