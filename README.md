@@ -1,6 +1,6 @@
 ## Description
 
-This goal of this group project was to build a machine learning model that predicts the most accurately diabetes based on a [Kaggle dataset](https://www.kaggle.com/competitions/inf-8245-e-fall-2024) . It was done for a Kaggle competition of the Mila Machine Learning class of Fall 2024 taught by Sarath Chandar.
+This goal of this group project was to build a machine learning model that predicts the most accurately diabetes based on a [Kaggle dataset](https://www.kaggle.com/competitions/inf-8245-e-fall-2024) . It received a grade of 95% and it was done for the MILA Machine Learning class of Fall 2024 taught by Sarath Chandar.
 
 A longer description of feature design, algorithms description, methodology, results and discussion can be found in the [Report](https://github.com/MurielleMardenli200/Diabetes_Prediction_Metamodel/blob/main/Report.pdf) of this repository.
 
